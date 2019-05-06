@@ -25,4 +25,4 @@ Windows 10
 
 Other feature set can be get by replace the config file path in get_bat.py 
 
-(for ex egemaps, ComParE2016, Emobasee etc.)
+(for ex egemaps, ComParE2016, Emobase etc.)
